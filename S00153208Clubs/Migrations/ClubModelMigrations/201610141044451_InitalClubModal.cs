@@ -1,0 +1,16 @@
+namespace S00153208Clubs.Migrations.ClubModelMigrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class InitalClubModal : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
